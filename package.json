@@ -1,0 +1,25 @@
+{
+  "name": "ts-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaoqiiii/ts-utils.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaoqiiii/ts-utils/issues"
+  },
+  "homepage": "https://github.com/gaoqiiii/ts-utils#readme",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
